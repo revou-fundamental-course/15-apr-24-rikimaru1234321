@@ -1,1 +1,1 @@
-Kalkulator SUhu Versi pertama
+Kalkulator Suhu Versi pertama
